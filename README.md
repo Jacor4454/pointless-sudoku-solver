@@ -1,5 +1,5 @@
 # pointless-sudoku-solver
-this is a pointless sudoku solver. pointless because it is needlessly complex. I started this project because I fancied a girl at my sixth form who liked sudoku's and I wanted to impress her. It uses the patterns humans use to some sudokus and I now have a much better version that solves it using basically trial and error. but here it is because im still proud of it and it was something really fun to do on a weekend. actaully the last project I did before going into AI.
+this is a pointless sudoku solver. pointless because it is needlessly complex. I started this project because I fancied a girl at my sixth form who liked sudoku's and I wanted to impress her. It uses the patterns humans use to some sudokus but the ideal version would be a one like the one from computerphile https://www.youtube.com/watch?v=G_UYXzGuqvM&t=460s that solves it using basically trial and error. but here it is because I'm still proud of it and it was something really fun to do on a weekend. actaully the last project I did before going into AI.
 
 
 ## controls
