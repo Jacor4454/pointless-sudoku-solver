@@ -5,6 +5,6 @@ this is a pointless sudoku solver. pointless because it is needlessly complex. I
 ## controls
 all you have to do is select a cell (either by clicking or navigation using arrow keys) and type the numeric value of that cell (obviously leaving the blank ones blank) then press enter. it only takes a few seconds to solve, if it takes more than about 15 seconds then the sudoku is too dificult for the program (it can solve https://sudoku.com/ easy, medium and hard but not expert all the time)
 
-if you want to solve expret ones see my other sudoku repo
+if you want to solve expret consistantly then check out computerphile
 
 I didn't get the girl
